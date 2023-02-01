@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ---
 
 ### Skills and Experience
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,figma,react,postgres,prisma,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,figma,react,postgres,prisma,nodejs,typescript)](https://skills.thijs.gg)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor22&theme=blueberry)](https://github.com/Tibor22/github-readme-stats)
