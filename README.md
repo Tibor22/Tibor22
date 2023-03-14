@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tibor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tibor22&theme=blueberry)](https://github.com/Tibor22/github-readme-stats)
 
 - 🔭 I’m currently working on [Job agency app](https://github.com/Tibor22/Agency-App-Client)
 - 🌱 I’m currently learning <b>Microservices with Node JS and React</b>
