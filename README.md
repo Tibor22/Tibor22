@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on [Job agency app](https://github.com/Tibor22/Agency-App-Client)
+- 🔭 I’m currently working on [Job agency app](https://github.com/Tibor22/greener_solution_v2)
 - 🌱 I’m currently learning <b>greener_solution_v2 with Next JS and Typescript</b>
 - 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/tibor-t%C3%B3th-53690b227/)
 ---
