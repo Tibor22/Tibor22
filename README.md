@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/tibor-t%C3%B3th-53690b227/)
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tibor22)
+
 ### Skills and Experience
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,figma,react,postgres,prisma,nodejs,typescript)](https://skills.thijs.gg)
 
